@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">$${\color{red}Char}$$les Phan Nguyen</h1>
+$${\color{red}Char}$$les Phan Nguyen
 
 ```javascript
 const nguyenPhanCharles = {
