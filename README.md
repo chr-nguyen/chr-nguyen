@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 style="text-align: center;"><span style="color: red;">Char</span>les Phan Nguyen</h1>
 
-<!--
-**chr-nguyen/chr-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const nguyenPhanCharles = {
+	location: "京都市",
+	employer: "ACTUAL",
+	education: {
+		bachelors: "The College of William & Mary",
+		masters: "University of Hawaiʻi at Mānoa"
+	},
+	languages: ["Vietnamese", "English", "Japanese"],
+	hobbies: ["cooking", "tabletop RPG", "GunPla", "camping"]
+}
+```
