@@ -1,7 +1,7 @@
 <h1 style="text-align: center;"><span style="color: red;">Char</span>les Phan Nguyen</h1>
 
 ```javascript
-  const nguyenPhanCharles = {
+const nguyenPhanCharles = {
   location: "京都市",
   employer: "ACTUAL",
   education: {
